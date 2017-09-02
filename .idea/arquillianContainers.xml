@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArquillianContainersManager">
+    <container containerId="container.arquillian.managed.jboss.as.6.x" name="JBoss AS Managed 6.x">
+      <maven-library groupId="org.jboss.arquillian.container" artifactId="arquillian-jbossas-managed-6" version="RELEASE" />
+    </container>
+  </component>
+</project>
